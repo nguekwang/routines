@@ -1,0 +1,38 @@
+# Saturday Routine (done by 09:00)
+- [ ] tmp Crack rice 
+  - [ ] Put it in the rice cooker with water
+  - [ ] Start the rice cooker
+- [ ] 1. Wash the lunch boxes
+- [ ] 2. Laundry bag
+  - [ ] Put the laundry in the bag
+- [ ] 3. Trash
+  - [ ] Gather the trash
+  - [ ] Bag up the trash
+  - [ ] Put in a new bag
+- [ ] 4. Leave home 
+  - [ ] Grab the shopping bag
+  - [ ] Put the laundry bag outside the front door
+  - [ ] Drop off the trash
+- [ ] 5. Shop at AEON supermarket
+  - [ ] Frozen broccoli
+  - [ ] Eggs
+  - [ ] Milk
+  - [ ] Vegetable juice
+  - [ ] Yogurt
+  - [ ] Cheese
+  - [ ] Protein bars
+- [ ] 6. Put groceries away
+  - [ ] Boiled eggs
+    - [ ] Put the eggs in a pot, fill it with water (put the eggs in BEFORE it boils) and put it on the heat
+    - [ ] It takes about 20 minutes to come to a boil
+    - [ ] Once boiling, boil for 10 minutes
+  - [ ] Bento
+    - [ ] Put plastic wrap in the bento
+    - [ ] Put in cheese, protein bar
+  - [ ] Freezer(frozen broccoli)
+  - [ ] Fridge(milk, yogurt, vegetable juice)
+  - [ ] Take a photo of the receipt and send it here (transcribe it and register it in the Notion "cashflow" DB)
+- [ ] tmp Put in rice on bento and put into freezer
+- [ ] 7. Cut nails
+- [ ] 8. Clean the home
+- [ ] 9. Check and restock the inventory
