@@ -5,10 +5,14 @@
 - [ ] 2. Prepare a towel
 - [ ] 3. Write today's task checklist
   - [ ] Rank the tasks by importance × urgency (high/high → high/low → low/high → low/low)
-  - [ ] Book a 30-minute review slot before each deadline
+  - [ ] Confirm the order with the manager or client at the PdM morning meeting
 - [ ] 4. Clock in on freee
 
 ## Workday
+- [ ] When a task is assigned
+  - [ ] Confirm the goal on the spot
+  - [ ] Book a 30-minute final report slot before the deadline
+  - [ ] Book a 30-minute mid-point review slot
 - [ ] Before each meeting
   - [ ] 15 minutes before: go to the toilet
   - [ ] 10 minutes before: join the meeting
