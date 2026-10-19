@@ -26,6 +26,7 @@
 - [ ] 3. Work out
 - [ ] 4. Bath
   - [ ] Take off the AirPods and clothes here, and nowhere else
+  - [ ] Put the clothes in the Awesome Wash bag
   - [ ] Face: wash, moisturize, sheet mask
   - [ ] Body: moisturize
 - [ ] 5. KPT reflection, and pick tomorrow's experiment

@@ -3,17 +3,15 @@
   - [ ] Put it in the rice cooker with water
   - [ ] Start the rice cooker
 - [ ] 1. Wash the lunch boxes
-- [ ] 2. Laundry bag (Awesome Wash)
-  - [ ] Put the laundry in the bag
-- [ ] 3. Trash
+- [ ] 2. Trash
   - [ ] Gather the trash
   - [ ] Bag up the trash
   - [ ] Put in a new bag
-- [ ] 4. Leave home 
+- [ ] 3. Leave home 
   - [ ] Grab the shopping bag
-  - [ ] Put the laundry bag outside the front door
+  - [ ] Put the Awesome Wash laundry bag outside the front door
   - [ ] Drop off the trash
-- [ ] 5. Shop at AEON supermarket
+- [ ] 4. Shop at AEON supermarket
   - [ ] Frozen broccoli
   - [ ] Eggs
   - [ ] Milk
@@ -21,7 +19,7 @@
   - [ ] Yogurt
   - [ ] Cheese
   - [ ] Protein bars
-- [ ] 6. Put groceries away
+- [ ] 5. Put groceries away
   - [ ] Boiled eggs
     - [ ] Put the eggs in a pot, fill it with water (put the eggs in BEFORE it boils) and put it on the heat
     - [ ] It takes about 20 minutes to come to a boil
@@ -33,12 +31,12 @@
   - [ ] Fridge(milk, yogurt, vegetable juice)
   - [ ] Take a photo of the receipt and send it here (transcribe it and register it in the Notion "cashflow" DB)
 - [ ] tmp Put in rice on bento and put into freezer
-- [ ] 7. Cut nails
-- [ ] 8. Clean the home
+- [ ] 6. Cut nails
+- [ ] 7. Clean the home
   - [ ] Run the lint roller over the floor
   - [ ] Wipe the floor with the flooring cleaner
   - [ ] Clean the toilet and bath
-- [ ] 9. Check and restock the inventory
+- [ ] 8. Check and restock the inventory
   - [ ] Put anything running low on next Saturday's shopping list
   - [ ] Protein (x-plosion): https://item.rakuten.co.jp/x-plosion/smpfl-ch/
   - [ ] Rice (Rakuten furusato nozei)
