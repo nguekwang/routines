@@ -28,11 +28,10 @@
   - [ ] Take off the AirPods and clothes here, and nowhere else
   - [ ] Face: wash, moisturize, sheet mask
   - [ ] Body: moisturize
-- [ ] 5. Laundry
-- [ ] 6. KPT reflection, and pick tomorrow's experiment
-- [ ] 7. Charge every device
+- [ ] 5. KPT reflection, and pick tomorrow's experiment
+- [ ] 6. Charge every device
   - [ ] AirPods
   - [ ] Private smartphone
   - [ ] Office smartphone
-- [ ] 8. Set the alarm
-- [ ] 9. In bed by 24:00
+- [ ] 7. Set the alarm
+- [ ] 8. In bed by 24:00

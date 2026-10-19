@@ -3,7 +3,7 @@
   - [ ] Put it in the rice cooker with water
   - [ ] Start the rice cooker
 - [ ] 1. Wash the lunch boxes
-- [ ] 2. Laundry bag
+- [ ] 2. Laundry bag (Awesome Wash)
   - [ ] Put the laundry in the bag
 - [ ] 3. Trash
   - [ ] Gather the trash
@@ -35,4 +35,10 @@
 - [ ] tmp Put in rice on bento and put into freezer
 - [ ] 7. Cut nails
 - [ ] 8. Clean the home
+  - [ ] Run the lint roller over the floor
+  - [ ] Wipe the floor with the flooring cleaner
+  - [ ] Clean the toilet and bath
 - [ ] 9. Check and restock the inventory
+  - [ ] Put anything running low on next Saturday's shopping list
+  - [ ] Protein (x-plosion): https://item.rakuten.co.jp/x-plosion/smpfl-ch/
+  - [ ] Rice (Rakuten furusato nozei)
